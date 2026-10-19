@@ -3,6 +3,9 @@
 [![Platform](https://shields.io)](https://teknikexpert.sell.app/)
 [![Payment](https://shields.io)](https://teknikexpert.sell.app/)
 
+<img width="1536" height="1024" alt="PinFlux 3_traffic Pinterest " src="https://github.com/user-attachments/assets/5329fed0-2e25-43c4-bc52-f0f5dc6e886a" />
+
+
 **PinFlux 3** is an enterprise-grade desktop software engineered to scale organic buyer traffic from Pinterest completely on autopilot. Leverage Artificial Intelligence to create, spin, rewrite, and schedule pins across account networks with zero manual drafting.
 
 🚀 **[Click Here to Access the Storefront & Buy Instantly](https://teknikexpert.sell.app/)**
