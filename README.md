@@ -1,8 +1,5 @@
 # PinFlux 3 Elite & PRO - AI-Powered Pinterest Automation Software
 
-[![Platform](https://shields.io)](https://teknikexpert.sell.app/)
-[![Payment](https://shields.io)](https://teknikexpert.sell.app/)
-
 <img width="1536" height="1024" alt="PinFlux 3_traffic Pinterest " src="https://github.com/user-attachments/assets/5329fed0-2e25-43c4-bc52-f0f5dc6e886a" />
 
 
